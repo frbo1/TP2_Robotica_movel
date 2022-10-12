@@ -1,13 +1,17 @@
-# TP2_Robotica_movel
+# Trabalho prático #2 - Planejamento e navegação
 
 ## Atribuições:
 
-- Campos potenciais: Filipe;
+- Campos potenciais: Filipe;  
+
+  - [ ] Implementar algoritmo;
+  - [ ] Criar dois mapas;
+  - [ ] Fazer documentação;
+  - [ ] Gravar vídeo;
+
 - Roadmap: Lucas;
 
-## TODO:
-
-- [ ] Implementar algoritmos;
-- [ ] Criar 2 mapas;
-- [ ] Fazer documentação;
-- [ ] Gravar vídeo;
+  - [ ] Implementar algoritmo;
+  - [ ] Criar dois mapas;
+  - [ ] Fazer documentação;
+  - [ ] Gravar vídeo;
